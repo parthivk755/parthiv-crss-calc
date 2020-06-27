@@ -2,7 +2,6 @@ from tkinter import*
 
 
 calc = Tk()
-calc.iconbitmap(r'F:\\april logo.ico')
 calc.title("parthiv calculator")
 calc.minsize(width=364, height=523)
 calc.maxsize(width=364, height=523)
